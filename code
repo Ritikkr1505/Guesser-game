@@ -9,7 +9,7 @@ class Guesser
 		Scanner scan=new Scanner(System.in);
 		
 		
-		System.out.println("Guesser kindly guess the number");
+		System.out.println("Enter a number :- ");
 		guessNum=scan.nextInt();
 		return guessNum;	
 		
